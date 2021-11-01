@@ -1,1 +1,3 @@
 here the describtion of entity
+
+adding news entities
