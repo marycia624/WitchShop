@@ -2,3 +2,4 @@ here will be the user logic
 
 1. Roles2
 2. Auntification2
+3. Get user by id
