@@ -1,3 +1,4 @@
 1. Added products
 2. Edited products
 3. Removed products
+4. Getting popular goods
