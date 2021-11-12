@@ -4,3 +4,4 @@
 4. Getting popular goods
 5. Getting category
 6. Getting subcategory
+7. Getting products by id
