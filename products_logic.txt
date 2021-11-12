@@ -5,3 +5,4 @@
 5. Getting category
 6. Getting subcategory
 7. Getting products by id
+8. Getting the same products
