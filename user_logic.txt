@@ -6,5 +6,5 @@ here will be the user logic
 3. Get user by id v 2
 4. Get user by attr
 5. Edit user logic
-6. Delete user
+6. Delete user 2
 7. Add files to download
