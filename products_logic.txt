@@ -2,3 +2,5 @@
 2. Edited products
 3. Removed products
 4. Getting popular goods
+5. Getting category
+6. Getting subcategory
