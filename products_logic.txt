@@ -8,3 +8,4 @@
 8. Getting the same products
 9. Search 2 3 
 10. Add/Remove favorite 2
+11. Add/Remove to/from cart
