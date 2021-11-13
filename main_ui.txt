@@ -1,1 +1,2 @@
 1) create main pages and patterns
+2) fix design according to client
