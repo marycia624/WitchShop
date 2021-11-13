@@ -7,4 +7,4 @@
 7. Getting products by id
 8. Getting the same products
 9. Search 2 3 
-10. Add/Remove favorite
+10. Add/Remove favorite 2
