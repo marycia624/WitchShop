@@ -6,4 +6,4 @@
 6. Getting subcategory
 7. Getting products by id
 8. Getting the same products
-9. Search 2 
+9. Search 2 3 
