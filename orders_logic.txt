@@ -6,5 +6,5 @@ add ability to get orders by different attributes
 id
 points
  
-add payment services
+add payment services and fix bugs
 
