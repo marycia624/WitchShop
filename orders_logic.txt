@@ -10,3 +10,4 @@ add payment services and fix bugs
 
 add orders history
 add information about points
+add information about points again
