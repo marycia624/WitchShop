@@ -3,3 +3,4 @@
 3. Remove logic
 4. Get news by id
 5. Subscribe news
+6. Unsubscribe news
