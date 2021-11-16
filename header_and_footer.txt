@@ -1,1 +1,2 @@
 1) create footer 
+2) create header
