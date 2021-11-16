@@ -10,4 +10,4 @@
 10. Add/Remove favorite 2
 11. Add/Remove to/from cart 2 3
 12. Filter by price
-13. Filter by availability 2
+13. Filter by availability 2 3
