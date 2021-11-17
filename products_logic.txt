@@ -11,3 +11,4 @@
 11. Add/Remove to/from cart 2 3
 12. Filter by price
 13. Filter by availability 2 3
+14. Tested!!!
